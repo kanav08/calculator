@@ -1,0 +1,5 @@
+projectKey=Certification
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/Certification
+ceTaskId=AXHRMHkUlrlo0qwVKOSx
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXHRMHkUlrlo0qwVKOSx
